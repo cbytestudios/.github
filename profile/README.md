@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://codebyte.studio" target="_blank">🌐 Website</a> • 
-  <a href="https://discord.gg/YOUR_INVITE" target="_blank">💬 Discord</a> • 
+  <a href="https://discord.gg/yEwUUnP5bK" target="_blank">💬 Discord</a> • 
   <a href="https://github.com/cbytestudios" target="_blank">🐙 GitHub</a>
 </p>
 
